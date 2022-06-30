@@ -1,0 +1,21 @@
+header {
+    background-color: #09c;
+    padding: 20px;
+    text-align: center;
+    color: tomato;
+}
+
+section {
+    background-color: #09c;
+    padding: 20px;
+    text-align: center;
+    color: tomato;
+    margin: 50px 0;
+}
+
+footer {
+    background-color: #09c;
+    padding: 20px;
+    text-align: center;
+    color: tomato;
+}
